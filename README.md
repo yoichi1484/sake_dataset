@@ -1,5 +1,5 @@
 # About
-- [Sake (Japanese Rice Wine)](https://en.wikipedia.org/wiki/Sake) dataset includes following information.
+- [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset includes following information.
   - Brand (name) of sake/銘柄 (e.g. 英勲)
   - Name of sake/品名 (e.g. 一吟)
   - Brewer/酒造 (e.g. 齊藤酒造)
