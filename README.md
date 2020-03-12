@@ -16,3 +16,6 @@
   - Method for making sake/造り (e.g. にごり酒)
   
 - We provide the dataset as a json file or a [Google Sheet](https://docs.google.com/spreadsheets/d/1O46CJxzCWOEK2akm5HRWcs1kK6k-aDStZ_yauIqxyvs/edit?usp=sharing).
+
+# v1
+- Num of sake = 1294
