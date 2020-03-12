@@ -14,7 +14,7 @@
 | Rice polishing ratio | 精米歩合 | 35% | Related to taste and flavor |
 | Alcohol degree | アルコール度数 | 16 | Related to taste and flavor |
 | Sake meter value/Nihonsyu-do | 日本酒度 | 3.0 | Related to taste and flavor |
-| Titratable acidity | 酸度 | 1.2 | Related to taste and flavor |
+| Titratable acidity/San-do | 酸度 | 1.2 | Related to taste and flavor |
 | Amino acid content/Aminosan-do | アミノ酸度 | 1.7 | Related to taste and flavor |
 | Dgree of sweetness/dryness | 甘辛度 | -0.08 | Related to taste and flavor |
 | Rice | 米 | 山田錦 | Related to taste and flavor |
