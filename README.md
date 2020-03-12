@@ -2,10 +2,11 @@
 - [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset includes following information.
 
 | Data | 日本語 | Example |  |
-|--------------------------------|---------------:|-----------------:|:---------------------------:|
+|--------------------------------|---------------:|-------------------:|:---------------------------:|
 | Brand of sake | 銘柄 | 英勲 |  |
 | Name of sake | 品名 | 一吟 |  |
-| Brewer | 酒造 | 齊藤酒造 |  |
+| Manufacturer of sake/Brewer | 酒造 | 齊藤酒造 |  |
+| Location of the manufacturer | 酒造所在地 | 京都府京都市伏見区 |  |
 | Type of sake | 特定名称 | 純米大吟醸 |  |
 | Rice polishing ratio | 精米歩合 | 35% | Related to taste and flavor |
 | Alcohol degree | アルコール度数 | 16 | Related to taste and flavor |
