@@ -4,7 +4,7 @@
 - 日本酒のデータセット
 - [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset includes following information.
 
-| Data | 日本語 | Example |  |
+| Data (en) | Data (ja) | Example | Detail |
 |--------------------------------|---------------:|-------------------:|:---------------------------:|
 | Brand of sake | 銘柄 | 英勲 |  |
 | Name of sake | 品名 | 一吟 |  |
