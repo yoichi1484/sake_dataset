@@ -3,7 +3,6 @@
 # About
 - 日本酒のデータセット
 - [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset includes following information.
-- We provide the dataset as a json file or a [Google Sheet](https://docs.google.com/spreadsheets/d/1O46CJxzCWOEK2akm5HRWcs1kK6k-aDStZ_yauIqxyvs/edit?usp=sharing).
 
 | Data (en) | Data (ja) | Example | Detail |
 |--------------------------------|---------------:|-------------------:|:---------------------------:|
@@ -25,4 +24,5 @@
 
 # Version
 ## v1
+- We provide the dataset as a json file or a [Google Sheet](https://docs.google.com/spreadsheets/d/1O46CJxzCWOEK2akm5HRWcs1kK6k-aDStZ_yauIqxyvs/edit?usp=sharing).
 - Num of sake = 1294
