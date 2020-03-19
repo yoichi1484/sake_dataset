@@ -2,7 +2,7 @@
 
 # About
 - 日本酒のデータセット
-- [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset includes following information.
+- [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset contains following information.
 
 | Data (en) | Data (ja) | Example | Detail |
 |--------------------------------|---------------:|-------------------:|:---------------------------:|
