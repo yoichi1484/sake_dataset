@@ -1,5 +1,6 @@
+Sake Dataset
+====
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.txt)
-
 # About
 - 日本酒のデータセット
 - [*Sake (Japanese Rice Wine)*](https://en.wikipedia.org/wiki/Sake) dataset contains following information.
@@ -20,7 +21,7 @@
 | Rice | 米 | 山田錦 | Related to taste and flavor |
 | Yeast | 酵母 | きょうかい1801号 | Related to taste and flavor |
 | Method for making sake | 造り | にごり酒 | Related to taste and flavor |
-  
+
 
 # Version
 ## v1
